@@ -1,0 +1,39 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "front": "unwiredenergy:blocks/energizer_front",
+        "top_bottom": "unwiredenergy:blocks/energizer_top_bottom",
+        "side": "unwiredenergy:blocks/energizer_sides",
+        "particle": "unwiredenergy:blocks/energizer_block"
+    },
+    "elements": [{
+        "from": [0, 0, 0],
+        "to": [16, 16, 16],
+        "faces": {
+            "down": {
+                "texture": "#top_bottom",
+                "uv": [0, 0, 16, 16]
+            },
+            "up": {
+                "texture": "#top_bottom",
+                "uv": [0, 0, 16, 16]
+            },
+            "north": {
+                "texture": "#front",
+                "uv": [0, 0, 16, 16]
+            },
+            "south": {
+                "texture": "#side",
+                "uv": [0, 0, 16, 16]
+            },
+            "west": {
+                "texture": "#side",
+                "uv": [0, 0, 16, 16]
+            },
+            "east": {
+                "texture": "#side",
+                "uv": [0, 0, 16, 16]
+            }
+        }
+    }]
+}

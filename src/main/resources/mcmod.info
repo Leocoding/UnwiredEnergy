@@ -1,0 +1,16 @@
+[
+{
+  "modid": "unwiredenergy",
+  "name": "Unwired Energy Mod",
+  "description": "Unwired Energy mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Jim, Antoine, Leo, Quentin, Nicolas, Charles, Adrien"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

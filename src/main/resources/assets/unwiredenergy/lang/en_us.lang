@@ -1,0 +1,21 @@
+itemGroup.unwiredenergy.unwired_creative_tab=UnwiredEnergy 
+
+
+tile.energystone_ore_block.name= Energystone Ore 
+tile.energystone_block.name= Energystone Block
+tile.energizer_block.name=Energizer
+tile.energy_acceptor.name=Energy Acceptor
+tile.energy_dispenser.name=Energy Dispenser
+tile.energy_relay.name=Energy Relay
+
+item.energystone.name= Energystone
+item.energystone_ingot.name=Energystone Ingot
+item.energized_energystone_ingot.name=Energized Energystone Ingot
+item.linker.name= Linker
+
+gui.config.main_title = Unwired Energy Configuration
+gui.config.category.network = Network
+gui.config.blocks.network_distance.name = Network distance
+gui.config.blocks.energizer_conso.name = Energizer Consumption
+gui.config.category.energizer = Energizer Consumption
+

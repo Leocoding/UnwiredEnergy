@@ -1,0 +1,7 @@
+{
+  "block.energizer.working": {
+    "category": "block",
+    "subtitle": "unwiredenergy.subtitle.energizer_working",
+    "sounds": [ "unwiredenergy:block/energizer/working" ]
+  }
+}

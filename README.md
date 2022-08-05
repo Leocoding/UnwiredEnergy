@@ -1,2 +1,2 @@
-# UnwiredEnergy
-A minecraft energy mod
+# Unwired Energy
+

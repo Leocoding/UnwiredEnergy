@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " i ",
+        " s ",
+        "lsl"
+    ],
+    "key": {
+        "i": {
+            "item": "unwiredenergy:energized_energystone_ingot"
+        },
+        "s": {
+            "item": "minecraft:stone",
+            "data": 0
+        },
+        "l": {
+            "item": "minecraft:stone_slab",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "unwiredenergy:energy_relay",
+		"count": 1
+    }
+}

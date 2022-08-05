@@ -1,0 +1,13 @@
+{
+    "variants": 
+    {
+    	"burning=false,facing=north": {"model": "unwiredenergy:energizer_block" },
+    	"burning=false,facing=east": {"model": "unwiredenergy:energizer_block", "y": 90 },
+    	"burning=false,facing=south": {"model": "unwiredenergy:energizer_block", "y": 180 },
+    	"burning=false,facing=west": {"model": "unwiredenergy:energizer_block", "y": 270 },
+    	"burning=true,facing=north": {"model": "unwiredenergy:energizer_block_on" },
+    	"burning=true,facing=east": {"model": "unwiredenergy:energizer_block_on", "y": 90 },
+    	"burning=true,facing=south": {"model": "unwiredenergy:energizer_block_on", "y": 180 },
+    	"burning=true,facing=west": {"model": "unwiredenergy:energizer_block_on", "y": 270 }
+    }
+}

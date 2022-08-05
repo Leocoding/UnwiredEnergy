@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "ppp",
+        "ppp"
+    ],
+    "key": {
+        "p": {
+            "item": "unwiredenergy:energystone"
+        }
+    },
+    "result": {
+        "item": "unwiredenergy:energystone_ingot"
+    }
+}

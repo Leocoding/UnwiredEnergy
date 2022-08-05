@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "oeo",
+        "efe",
+        "oeo"
+    ],
+    "key": {
+        "o": {
+            "item": "minecraft:obsidian"
+        },
+        "e": {
+            "item": "unwiredenergy:energystone_block"
+        },
+        "f": {
+            "item": "minecraft:furnace"
+        }
+    },
+    "result": {
+        "item": "unwiredenergy:energizer_block",
+        "count": 1
+    }
+}

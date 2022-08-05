@@ -1,0 +1,5 @@
+{
+	"variants":  {
+		"normal": { "model": "unwiredenergy:energy_relay_anim_plus" }
+	}
+}

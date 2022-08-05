@@ -1,0 +1,12 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "unwiredenergy:items/linker"
+	},
+	"display": {
+		"head": {
+			"rotation": [-20, 90, 0],
+			"translation": [7.25, 3.25, -1]
+		}
+	}
+}

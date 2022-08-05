@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ogo",
+        "gdg",
+        "oro"
+    ],
+    "key": {
+        "o": {
+            "item": "minecraft:obsidian"
+        },
+        "g": {
+            "item": "minecraft:glass"
+        },
+        "d": {
+            "item": "minecraft:gold_block"
+        },
+        "r": {
+            "item": "unwiredenergy:energized_energystone_ingot"
+        }
+    },
+    "result": {
+        "item": "unwiredenergy:energy_acceptor",
+        "count": 1
+    }
+}
